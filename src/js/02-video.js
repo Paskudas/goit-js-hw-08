@@ -1,3 +1,6 @@
+// Додаємо до проекту бібліотеку @vimeo/player та lodash.throttle як залежність проекту через npm.
+// Команда $ npm i --save lodash.throttle 
+// Команда $ npm install @vimeo/player
 import Player from '@vimeo/player';
 import throttle from 'lodash.throttle';
 
